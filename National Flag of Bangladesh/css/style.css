@@ -1,0 +1,47 @@
+/*
+Flag of Bangladesh
+http://www.bholait.com
+*/
+
+/*-----------------------------------------------------------------------------------*/
+							/*	Design By Md Mizanur Rahaman Santo */							
+/*-----------------------------------------------------------------------------------*/
+*{
+	padding: 0px;
+	margin: 0px;
+	border: 0px;
+}
+
+
+.content{
+	background: balck;
+	width: 900px;
+	margin: 0px auto;
+	margin-top: 50px;
+}
+
+.bg{
+	background: green;
+	text-align: center;
+	color: white;
+	width:800px;
+	height: 400px;
+	position: relative;
+	border: 2px solid black;
+	box-shadow: -1px 2px 14px 8px black;
+}
+
+.Circle{
+	background: red;
+	width: 300px;
+	height: 250px;
+	border-radius: 50% 50% 50% 50%; 
+	position: absolute;
+	margin-top: -330px;
+	margin-left: 250px;
+}
+
+.Circle:hover{
+	background: #d97d7d;
+	transition: 0.5s;
+}
